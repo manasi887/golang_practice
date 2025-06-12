@@ -10,5 +10,5 @@ func main() {
 
 	f := c*1.8 + 32
 
-	fmt.Println("The tempature in Fahrenheit is ", f)
+	fmt.Println("The tempature in Fahrenheit is : ", f)
 }
